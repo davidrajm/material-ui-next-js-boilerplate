@@ -1,0 +1,15 @@
+
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths":{
+            "@/components/*": ["src/components/*"],
+            "@/layouts/*": ["src/layouts/*"],
+            "@/config/*": ["src/config/*"],
+            "@/utils/*": ["src/components/utils/*"],
+            "@/customMUI/*": ["src/components/customMUI/*"],
+            "@/libs/*": ["src/libs/*"],
+            "@/data/*": ["src/data/*"],
+        }
+    }
+}
