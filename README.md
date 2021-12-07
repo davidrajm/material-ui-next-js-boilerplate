@@ -1,5 +1,12 @@
 # Materiul UI - Next.js Boilerplate
 
+## Features
+
+- Basic integration of next js with material ui
+- Option to change the default theme (primary, secondary colors, etc.,
+)
+- Sidebar and also mobile menu (with Drawer)
+
 ## How to use
 
 Download  or clone the repo.
