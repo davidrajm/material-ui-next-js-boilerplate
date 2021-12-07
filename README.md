@@ -1,14 +1,14 @@
-# Next.js example
+# Materiul UI - Next.js Boilerplate
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download  or clone the repo.
 
 <!-- #default-branch-switch -->
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
+git clone https://github.com/davidrajm/material-ui-next-js-boilerplate.git
+cd material-ui-next-js-boilerplate
 ```
 
 Install it and run:
@@ -20,15 +20,10 @@ npm run dev
 
 or:
 
-<!-- #default-branch-switch -->
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/nextjs)
-
-## The idea behind the example
-
-The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/guides/interoperability/#styled-components).
+```sh
+yarn
+yarn dev
+```
 
 ## The link component
 
@@ -40,5 +35,6 @@ More information [in the documentation](https://mui.com/guides/routing/#next-js)
 
 <!-- #default-branch-switch -->
 
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/getting-started/templates/) section.
+I am planning to make this repo with little more functionalities which is usually required for any websites. 
+
+Any suggestions of adding features are welcome! 
